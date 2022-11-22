@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 export default axios.create({
-    baseURL:"http://localhost:6050"
+    baseURL:"https://marwan-mokatabat.onrender.com"
 })
 
 
